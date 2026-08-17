@@ -1,0 +1,1 @@
+ALTER TABLE `marketplace_orders` ADD `bag_id` text DEFAULT '' NOT NULL;

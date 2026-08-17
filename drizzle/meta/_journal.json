@@ -1,0 +1,139 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785150766540,
+      "tag": "0000_tranquil_bill_hollister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785151252344,
+      "tag": "0001_magenta_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785152080023,
+      "tag": "0002_smiling_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1785153675354,
+      "tag": "0003_flimsy_metal_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1785160186497,
+      "tag": "0004_sweet_sharon_ventura",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1785163835140,
+      "tag": "0005_deep_typhoid_mary",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1785167300750,
+      "tag": "0006_clear_operational_test_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1785170200000,
+      "tag": "0007_seed_siya_enterprise_parcels",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1785170800000,
+      "tag": "0008_add_public_trust_metrics",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1785220867488,
+      "tag": "0009_tricky_daimon_hellstrom",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1785231505311,
+      "tag": "0010_fuzzy_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "6",
+      "when": 1785231678505,
+      "tag": "0011_flippant_the_hand",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "6",
+      "when": 1785232914668,
+      "tag": "0012_orange_professor_monster",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "6",
+      "when": 1785235338812,
+      "tag": "0013_cuddly_the_watchers",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "6",
+      "when": 1785236160134,
+      "tag": "0014_pale_shadow_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "6",
+      "when": 1785237124538,
+      "tag": "0015_useful_vivisector",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "6",
+      "when": 1785257242561,
+      "tag": "0016_volatile_korvac",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "6",
+      "when": 1785292454649,
+      "tag": "0017_old_iron_lad",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "6",
+      "when": 1785298250491,
+      "tag": "0018_clear_secret_warriors",
+      "breakpoints": true
+    }
+  ]
+}

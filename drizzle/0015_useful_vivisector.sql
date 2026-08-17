@@ -1,0 +1,1 @@
+ALTER TABLE `marketplace_orders` ADD `delivery_partner` text DEFAULT 'Pending' NOT NULL;
