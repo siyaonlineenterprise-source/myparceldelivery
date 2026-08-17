@@ -15,6 +15,7 @@ RUN npm ci
 
 COPY . .
 RUN chmod +x scripts/*.sh
+RUN mkdir -p .openai && cp hosting.json .openai/hosting.json
 RUN npm run build
 
 ENV NODE_ENV=production
